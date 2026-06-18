@@ -1,0 +1,32 @@
+# Crop Land Classification using Hybrid Quantum Machine Learning
+
+## Overview
+This project classifies crop land from satellite imagery using a Hybrid Quantum Machine Learning approach.
+
+## Technologies Used
+- Python
+- Qiskit
+- Scikit-learn
+- Pandas
+- NumPy
+- React
+- Flask
+
+## Features
+- Satellite image preprocessing
+- Feature extraction
+- Crop land classification
+- Hybrid Quantum Machine Learning
+- Interactive web interface
+
+## Dataset
+Dataset Source:
+https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
+
+The dataset is not included in this repository because of its large size.
+
+
+## Future Improvements
+- Improve model accuracy
+- Add more satellite datasets
+- Deploy on cloud platforms
